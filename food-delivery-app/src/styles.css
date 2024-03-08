@@ -46,7 +46,7 @@ color: orange;
 }
 
 .order-btn {
-background-color: #00a7e1;
+background-color: #10002B;
 border: none;
 border-radius: 5px;
 color: #fff;
@@ -58,12 +58,12 @@ width: 100%;
 }
 
 .order-btn:hover {
-background-color: #0093c6;
+background-color: #3c096c;
 }
 
 
 .header {
-background-color: #00A7E1;
+background-color: #10002B;
 color: #fff;
 padding: 20px 0;
 }
